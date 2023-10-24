@@ -10,30 +10,26 @@
   - PIL (Pillow)
   - prettytable
 
+
 ### Instalación de bibliotecas:
 ```bash
 pip install PyPDF2 Pillow prettytable
 ```
-pip install PyPDF2 Pillow prettytable
 
-markdown
-Copy code
 
 ## 🚀 Uso
 
 Para usar **MetadataExtractor**, ejecuta el script `metadata_extractor.py` desde la línea de comandos, pasando el archivo del que deseas extraer metadatos:
-
+```bash
 python metadata_extractor.py <ruta_del_archivo>
+```
 
-shell
-Copy code
 
 ### Ejemplo:
-
+```bash
 python metadata_extractor.py datosDePrueba/Cat_November_2010-1a.jpg
+```
 
-markdown
-Copy code
 
 ## ⚙️ Funcionalidad
 
