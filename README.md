@@ -11,7 +11,9 @@
   - prettytable
 
 ### Instalación de bibliotecas:
-
+```bash
+pip install PyPDF2 Pillow prettytable
+```
 pip install PyPDF2 Pillow prettytable
 
 markdown
